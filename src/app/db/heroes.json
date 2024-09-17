@@ -1,0 +1,21 @@
+[
+    {
+    "id":"1",   
+    "name":"Captain America", 
+    "type":"Vanguard",
+    "description":"Enhanced by the Super-Soldier Serum, Steven Rogers uses his Vibranium shield and extensive combat training to confront any threat to justice. When Captain America rallies his troops, a wave of courage sweeps across the battlefield!",
+    "lore":"In hopes of serving his country during World War II, young Steve Rogers volunteered for an experiment that enhanced his strength, speed, and agility, making him America's first super soldier. As Captain America, he proudly fought enemy forces until he became frozen in ice and lost to the ages. Discovered and unthawed in the 2080s, Captain America began battling the threats of tomorrow — including Doom 2099 — until he was displaced into the present by the Timestream Entanglement. Now, he fights alongside the Avengers to prevent the desperate future in which he awoke.",
+    "photo":"https://www.marvelrivals.com/pc/gw/20240301101352//img/heroes/heroes/d24_8021ec4.png",
+    "link":"/cptamerica"
+    },
+    {
+    "id":"2", 
+    "name":"Winter Soldier", 
+    "type":"Duelist",
+    "description":"Terrifying experiments turned him into a brainwashed assassin, but now James Buchanan Bucky Barnes is in control of his own fate once again. With his enhanced mechanical arm, the Winter Soldier is primed to deliver earth-shattering blows to any foe in his path!",
+    "lore":"Captain America's sidekick during World War II, James Buchanan Bucky Barnes was thought to have been killed in action. In truth, he had been recovered by enemy forces and rebuilt into their ultimate assassin. But the Winter Soldier eventually broke his conditioning to become a hero once more. Captured during an operation to sabotage Charteris Base, the Winter Soldier was subjected to horrific experiments at the hands of Hydra scientists. He was rescued by Hawkeye and a version of Captain America from the year 2099, who gifted an upgraded arm to his former partner.",
+    "photo":"https://www.marvelrivals.com/pc/gw/20240301101352//img/heroes/heroes/d25_5bbe85e.png",
+    "link":"/wintersoldier"
+    }
+]
+
